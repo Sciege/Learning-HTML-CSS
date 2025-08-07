@@ -1,0 +1,42 @@
+/* .p2{
+    color: #ad6767;
+}
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+}  */
+
+/* if specific, can
+div#content{
+    background-color: #ebebeb;
+    padding: 20px;
+}
+*/
+
+/* div p{
+    color: purple;
+} */
+
+/* a[href]{
+    background-color: gray;
+} */
+ 
+/* it can also be like this 
+a[href = "https://github.com/Sciege"]{
+    background-color: gray;
+}
+*/
+div {
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
+}
+div p{
+    border: inherit;
+    margin: inherit;
+    color: red ;
+}
+p{
+    color: orange;
+}
